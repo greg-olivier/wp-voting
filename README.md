@@ -1,9 +1,6 @@
 === WP Voting Contest ===
-Contributors: Greg OLIVIER
-Tags: WordPress Plugin, wp contest, survey system, user contest, user voting, contest system, add contest, wp contest system, ask question, forum, question andwer, q&a,  contest, voting system, wp voting, vote, vote system, posts, pages, category, plugin.
 
-
-WP Voting Contest offering facility of user contest, survey or voting systems for user contest or user vote / voting system over wp site, with advance ui / ux responsive design.
+WP Voting Contest offering facility of user contest, survey or voting systems for user contest or user vote / voting system over wp site, with advance ui / ux responsive design and Youtube integration.
  
 == Description ==
 
